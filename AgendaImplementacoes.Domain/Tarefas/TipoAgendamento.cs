@@ -6,7 +6,7 @@ namespace AgendaImplementacoes.Domain.Tarefas
 {
     public enum TipoAgendamento
     {
-        Treinamento,
-        Alinhamento
+        Treinamento = 1,
+        Alinhamento = 2
     }
 }
